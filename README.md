@@ -20,7 +20,10 @@ The goal of this project is to learn how to use Python to read, clean, analyze, 
 - Set up Python environment using Anaconda
 - Confirmed pandas, NumPy, and matplotlib can run in Jupyter Notebook
 - Created the first GitHub repository
-- Preparing to find and analyze a manufacturing-related dataset
+- Created a small sample manufacturing dataset in Python
+- USed pands to create a DataFrame and calculate summary statistics
+- Used matplotlib to visualize cybcle time and downtime by machine
+- Wrote initial findings based on the sample dataset
 
 ## Learning Focus
 
