@@ -21,10 +21,14 @@ The goal of this project is to learn how to use Python to read, clean, analyze, 
 - Confirmed pandas, NumPy, and matplotlib can run in Jupyter Notebook
 - Created the first GitHub repository
 - Created a small sample manufacturing dataset in Python
-- USed pands to create a DataFrame and calculate summary statistics
+- Used pandas to create a DataFrame and calculate summary statistics
 - Used matplotlib to visualize cybcle time and downtime by machine
 - Wrote initial findings based on the sample dataset
-
+- Completed an initial pandas and matplotlib practice notebook
+- Created bar charts for cycle time and downtime using a small sample machine dataset
+- Wrote initial findings based on machine-level performance comparison
+- Started searching for a real manufacturing or production-related CSV dataset
+  
 ## Learning Focus
 
 - Reading CSV files
