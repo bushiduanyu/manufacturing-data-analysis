@@ -32,3 +32,5 @@ The first EDA showed that `QualityScore` and `DowntimePercentage` alone do not c
 - Compare grouped averages by `DefectStatus`
 - Create grouped bar charts for key variables
 - Continue documenting findings carefully without overstating causation
+
+
